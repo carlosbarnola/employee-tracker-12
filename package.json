@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/carlosbarnola/employee-tracker-12/issues"
   },
-  "homepage": "https://github.com/carlosbarnola/employee-tracker-12#readme"
+  "homepage": "https://github.com/carlosbarnola/employee-tracker-12#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
 }
